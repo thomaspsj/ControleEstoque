@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ControleEstoque.Web.props" />
+</Project>
